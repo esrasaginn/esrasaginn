@@ -1,5 +1,5 @@
 # 💫 About Me:
-1. Hybrid Profile<br>"I am a UI/UX Designer & Frontend Developer dedicated to creating seamless digital experiences by bridging the gap between design and code."<br><br>2. Ürün Odaklı<br>"As a Product Designer with a strong background in Frontend Development, I build user-centered interfaces that are not only visually stunning but also technically robust."<br><br>3. Creative Technologist<br>"Creative UI/UX Designer & Frontend Developer specializing in responsive web design and interactive prototyping."
+1. Hybrid Profile<br>"I am a UI/UX Designer & Frontend Developer dedicated to creating seamless digital experiences by bridging the gap between design and code."<br><br>2. Product-Focused<br>"As a Product Designer with a strong background in Frontend Development, I build user-centered interfaces that are not only visually stunning but also technically robust."<br><br>3. Creative Technologist<br>"Creative UI/UX Designer & Frontend Developer specializing in responsive web design and interactive prototyping."
 
 
 ## 🌐 Socials:
